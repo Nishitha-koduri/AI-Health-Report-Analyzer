@@ -1,0 +1,31 @@
+doctor_id,doctor_name,designation,specialization,experience_years,hospital_location,consultation_fee,consultation_mode,status
+D001,Dr. Vikram Mehta,Senior Consultant,General Medicine,24,Karimnagar,300,Offline/Online,Active
+D002,Dr. Sanjay Verma,Associate Consultant,Dermatology,11,Karimnagar,400,Offline/Online,Active
+D003,Dr. Sanjay Verma,Associate Consultant,General Medicine,25,Hyderabad,1000,Offline/Online,Active
+D004,Dr. Ananya Singh,Consultant,Ophthalmology,9,Karimnagar,750,Offline,Active
+D005,Dr. Meena Sharma,Senior Consultant,Pulmonology,25,Hanamkonda,400,Offline,Active
+D006,Dr. Nikhil Mehta,Associate Consultant,Gynecology,14,Hanamkonda,800,Offline,Active
+D007,Dr. Varun Rao,Specialist,Gynecology,11,Warangal,600,Offline,Active
+D008,Dr. Rohit Das,Senior Consultant,Dermatology,8,Warangal,300,Offline/Online,Active
+D009,Dr. Vikram Sharma,Associate Consultant,Pediatrics,25,Hyderabad,750,Offline/Online,Active
+D010,Dr. Kiran Joshi,Associate Consultant,Dermatology,4,Hanamkonda,300,Offline,Active
+D011,Dr. Rohit Rao,Specialist,Ophthalmology,11,Hanamkonda,750,Offline,Active
+D012,Dr. Ishita Joshi,Consultant,General Medicine,19,Hanamkonda,1000,Offline,Active
+D013,Dr. Divya Naidu,Specialist,Gynecology,3,Hyderabad,300,Offline/Online,Active
+D014,Dr. Pooja Chowdary,Consultant,General Medicine,21,Hanamkonda,600,Offline,Active
+D015,Dr. Divya Naidu,Associate Consultant,Cardiology,8,Warangal,1000,Offline/Online,Active
+D016,Dr. Divya Joshi,Consultant,Pulmonology,7,Hyderabad,1000,Offline/Online,Active
+D017,Dr. Varun Sharma,Associate Consultant,Orthopedics,4,Warangal,750,Offline/Online,Active
+D018,Dr. Divya Reddy,Associate Consultant,Ophthalmology,11,Warangal,500,Offline/Online,Active
+D019,Dr. Nikhil Naidu,Senior Consultant,Orthopedics,16,Hyderabad,300,Offline/Online,Active
+D020,Dr. Kiran Gupta,Consultant,Ophthalmology,6,Karimnagar,300,Offline,Active
+D021,Dr. Ishita Mehta,Consultant,ENT,6,Karimnagar,400,Offline,Active
+D022,Dr. Arjun Singh,Consultant,Pulmonology,23,Warangal,750,Offline,Active
+D023,Dr. Ananya Naidu,Specialist,Cardiology,17,Karimnagar,800,Offline,Active
+D024,Dr. Nikhil Sharma,Senior Consultant,Pulmonology,10,Hanamkonda,500,Offline/Online,Active
+D025,Dr. Arjun Patel,Senior Consultant,Pediatrics,6,Hyderabad,600,Offline,Active
+D026,Dr. Varun Patel,Senior Consultant,Ophthalmology,18,Warangal,400,Offline/Online,Active
+D027,Dr. Neha Das,Specialist,Orthopedics,23,Hanamkonda,500,Offline,Active
+D028,Dr. Priya Nair,Consultant,Ophthalmology,6,Karimnagar,750,Offline,Active
+D029,Dr. Arjun Singh,Consultant,Pediatrics,18,Hanamkonda,500,Offline/Online,Active
+D030,Dr. Swathi Iyer,Consultant,Ophthalmology,24,Karimnagar,1000,Offline,Active
